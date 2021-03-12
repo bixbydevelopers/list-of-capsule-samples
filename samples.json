@@ -18,12 +18,12 @@
       }
     ],
     "screenshots": [
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/movieAgent/01.png",
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/movieAgent/02.png",
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/movieAgent/03.png",
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/movieAgent/04.png",
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/movieAgent/05.png",
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/movieAgent/06.png"
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movieAgent/01.png",
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movieAgent/02.png",
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movieAgent/03.png",
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movieAgent/04.png",
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movieAgent/05.png",
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movieAgent/06.png"
     ],
     "highlightScreenshotIndex": 5,
     "description": "Watching movies is a way to travel to new worlds. This capsule is like a travel agent to help you find your next movie adventure. A walkthrough in our documentation, as well as code puzzles, will help you learn how to build one like it.",
@@ -52,12 +52,12 @@
       }
     ],
     "screenshots": [
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/spaceResorts/01.png",
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/spaceResorts/02.png",
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/spaceResorts/03.png",
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/spaceResorts/04.png",
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/spaceResorts/05.png",
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/spaceResorts/06.png"
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/spaceResorts/01.png",
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/spaceResorts/02.png",
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/spaceResorts/03.png",
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/spaceResorts/04.png",
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/spaceResorts/05.png",
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/spaceResorts/06.png"
     ],
     "highlightScreenshotIndex": 5,
     "description": "Space Resorts is a fun capsule that allows you to book a space vacation! You can find a resort, book a reservation, look up a reservation, and change or cancel a reservation. This advanced capsule demonstrates development and design of searches, transactions and views.",
@@ -87,16 +87,16 @@
       }
     ],
     "screenshots": [
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/inputForm/01.png",
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/inputForm/02.png",
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/inputForm/03.png",
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/inputForm/04.png",
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/inputForm/05.png",
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/inputForm/06.png",
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/inputForm/07.png",
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/inputForm/08.png",
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/inputForm/09.png",
-      "https://github.com/bixbydevelopers/list-of-capsule-samples/blob/main/inputForm/10.png"
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/inputForm/01.png",
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/inputForm/02.png",
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/inputForm/03.png",
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/inputForm/04.png",
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/inputForm/05.png",
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/inputForm/06.png",
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/inputForm/07.png",
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/inputForm/08.png",
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/inputForm/09.png",
+      "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/inputForm/10.png"
     ],
     "description": "This sample demonstrates how to implement an input-view, and see how the input components display on various device targets. You can ask for information directly using a form, or you can use a specific picker.",
     "focusPath": "README.md"
