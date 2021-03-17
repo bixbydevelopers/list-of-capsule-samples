@@ -96,16 +96,16 @@
         }
       ],
       "screenshots": [
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/inputForm/01.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/inputForm/02.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/inputForm/03.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/inputForm/04.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/inputForm/05.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/inputForm/06.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/inputForm/07.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/inputForm/08.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/inputForm/09.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/inputForm/10.png"
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/04.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/05.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/06.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/07.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/08.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/09.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/10.png"
       ],
       "description": "This sample demonstrates how to implement an input-view, and see how the input components display on various device targets. You can ask for information directly using a form, or you can use a specific picker.",
       "focusPath": "README.md"
