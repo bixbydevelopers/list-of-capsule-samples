@@ -1,6 +1,8 @@
 {
   "title": "Select a Capsule",
-  "description": "Choose from a number of pre-written capsules, as featured in our documentation. Walkthroughs illustrate various Bixby platform features, and our documentation shows you how to develop each capsule. Samples are smaller capsules that show how to use a single platform feature.",
+  "description": [
+    "Choose from a number of pre-written capsules, as featured in our documentation. Walkthroughs illustrate various Bixby platform features, and our documentation shows you how to develop each capsule. Samples are smaller capsules that show how to use a single platform feature."
+  ],
   "links": [
     {
       "text": "Sample Capsule Documentation",
@@ -18,7 +20,7 @@
       },
       "links": [
         {
-          "text": "Walkthrough Documentation",
+          "text": "Walkthrough - Movie Agent Capsule",
           "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/walkthroughs/movie-agent"
         },
         {
@@ -35,7 +37,9 @@
         "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movieAgent/06.png"
       ],
       "highlightScreenshotIndex": 5,
-      "description": "Watching movies is a way to travel to new worlds. This capsule is like a travel agent to help you find your next movie adventure. A walkthrough in our documentation, as well as code puzzles, will help you learn how to build one like it.",
+      "description": [
+        "Watching movies is a way to travel to new worlds. This capsule is like a travel agent to help you find your next movie adventure. A walkthrough in our documentation, as well as code puzzles, will help you learn how to build one like it."
+      ],
       "focusPath": "README.md"
     },
     {
@@ -48,7 +52,7 @@
       },
       "links": [
         {
-          "text": "Simple Search Capsule - Walkthrough",
+          "text": "Walkthrough - Simple Search Capsule",
           "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/walkthroughs/simple-search"
         },
         {
@@ -63,7 +67,10 @@
         "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shoe/04.png"
       ],
       "highlightScreenshotIndex": 3,
-      "description": "This sample capsule shows how to include basic search in a capsule. A user can start with a simple utterance, such as \"Find me some shoes,\" or do a more specific search, such as \"Find me dancing shoes.\" The capsule responds with a summary of results. When a user selects one of the results, they see a detailed view, which fetches additional details from a lazy source.",
+      "description": [
+        "This sample capsule shows how to include basic search in a capsule. A user can start with a simple utterance, such as \"Find me some shoes,\" or do a more specific search, such as \"Find me dancing shoes.\"",
+        "The capsule responds with a summary of results. When a user selects one of the results, they see a detailed view, which fetches additional details from a lazy source."
+      ],
       "focusPath": "README.md"
     },
     {
@@ -97,7 +104,41 @@
         "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/spaceResorts/06.png"
       ],
       "highlightScreenshotIndex": 5,
-      "description": "Space Resorts is a fun capsule that allows you to book a space vacation! You can find a resort, book a reservation, look up a reservation, and change or cancel a reservation. This advanced capsule demonstrates development and design of searches, transactions and views.",
+      "description": [
+        "Space Resorts is a fun capsule that allows you to book a space vacation! You can find a resort, book a reservation, look up a reservation, and change or cancel a reservation.",
+        "This advanced capsule demonstrates development and design of searches, transactions and views."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Shirt",
+      "id": "example.shirt",
+      "group": "Walkthrough",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-sample-shirt"
+      },
+      "links": [
+        {
+          "text": "Walkthrough - Basic Cart Transactional Capsule",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/walkthroughs/basic-transactional"
+        },
+        {
+          "text": "Transactional Workflows",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/modeling.modeling-actions.transactional-workflows"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shirt/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shirt/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shirt/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shirt/04.png"
+      ],
+      "highlightScreenshotIndex": 2,
+      "description": [
+        "This sample capsule uses transactional features to create a shirt store. Users can search for shirts (FindShirt), which they can then add to and update in a cart using CreateOrder and UpdateOrder, respectively.",
+        "Users can then complete the transaction, by committing the order (CommitOrder) or canceling the order entirely (CancelOrder). Once users complete the transaction, they can check the status (CheckStatus) of the order, view a receipt (FindLastReceipt) that summarizes the details of the transaction, or cancel the order (CancelCommittedOrder)."
+      ],
       "focusPath": "README.md"
     },
     {
@@ -135,7 +176,9 @@
         "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/09.png",
         "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/10.png"
       ],
-      "description": "This sample demonstrates how to implement an input-view, and see how the input components display on various device targets. You can ask for information directly using a form, or you can use a specific picker.",
+      "description": [
+        "This sample demonstrates how to implement an input-view, and see how the input components display on various device targets. You can ask for information directly using a form, or you can use a specific picker."
+      ],
       "focusPath": "README.md"
     }
   ]
