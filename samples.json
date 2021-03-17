@@ -39,6 +39,34 @@
       "focusPath": "README.md"
     },
     {
+      "name": "Shoe",
+      "id": "example.shoe",
+      "group": "Walkthrough",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-sample-shoe"
+      },
+      "links": [
+        {
+          "text": "Simple Search Capsule - Walkthrough",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/walkthroughs/simple-search"
+        },
+        {
+          "text": "Fetch asynchronously (lazy-source)",
+          "url": "https://bixbydevelopers.com/dev/docs/reference/type/structure.property.lazy-source"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shoe/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shoe/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shoe/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shoe/04.png"
+      ],
+      "highlightScreenshotIndex": 3,
+      "description": "This sample capsule shows how to include basic search in a capsule. A user can start with a simple utterance, such as \"Find me some shoes,\" or do a more specific search, such as \"Find me dancing shoes.\" The capsule responds with a summary of results. When a user selects one of the results, they see a detailed view, which fetches additional details from a lazy source.",
+      "focusPath": "README.md"
+    },
+    {
       "name": "Space Resorts",
       "id": "example.spaceResorts",
       "group": "Walkthrough",
