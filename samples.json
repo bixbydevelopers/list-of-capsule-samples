@@ -11,6 +11,29 @@
   ],
   "samples": [
     {
+      "name": "Dice",
+      "id": "example.dice",
+      "group": "Quick Start",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-sample-dice"
+      },
+      "links": [
+        {
+          "text": "Quick Start Guide",
+          "url": "https://bixbydevelopers.com/dev/docs/get-started/quick-start"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/dice/01.png"
+      ],
+      "description": [
+        "This capsule provides companion code to the Bixby Quick Start Guide. The capsule simulates throwing dice. Throw any number of dice and choose how many sides the dice have. The capsule demonstrates use of Concepts and Actions.",
+        "Note: This capsule is meant to be used with the Quick Start Guide, which teaches you how to add training. Therefore, you cannot use natural language initially. However, you can use an intent in the Simulator to test the capsule out-of-the-box."
+      ],
+      "focusPath": "README.md"
+    },
+    {
       "name": "Movie Agent",
       "id": "example.movieAgent",
       "group": "Walkthrough",
