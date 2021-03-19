@@ -13,7 +13,7 @@
     {
       "name": "Dice",
       "id": "example.dice",
-      "group": "Quick Start",
+      "group": "Walkthrough (Quick Start)",
       "github": {
         "owner": "bixbydevelopers",
         "repo": "capsule-sample-dice"
@@ -161,6 +161,36 @@
       "description": [
         "This sample capsule uses transactional features to create a shirt store. Users can search for shirts (FindShirt), which they can then add to and update in a cart using CreateOrder and UpdateOrder, respectively.",
         "Users can then complete the transaction, by committing the order (CommitOrder) or canceling the order entirely (CancelOrder). Once users complete the transaction, they can check the status (CheckStatus) of the order, view a receipt (FindLastReceipt) that summarizes the details of the transaction, or cancel the order (CancelCommittedOrder)."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Bank",
+      "id": "example.bank",
+      "group": "Walkthrough",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-sample-bank"
+      },
+      "links": [
+        {
+          "text": "Walkthrough - Simple One-Step Transactional Capsule",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/walkthroughs/simple-transactional"
+        },
+        {
+          "text": "Transactional Workflows",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/modeling.modeling-actions.transactional-workflows"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/bank/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/bank/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/bank/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/bank/04.png"
+      ],
+      "description": [
+        "This sample capsule uses transactional features to create a simple, one-step method for transferring money. The capsule contains three actions types to help the user find an account (Search), start a transfer (BeginTransaction), and complete a transfer (Commit).",
+        "Important: you must configure the mock login before this capsule will work, see the walkthrough for instructions."
       ],
       "focusPath": "README.md"
     },
