@@ -52,12 +52,12 @@
         }
       ],
       "screenshots": [
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movieAgent/01.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movieAgent/02.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movieAgent/03.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movieAgent/04.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movieAgent/05.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movieAgent/06.png"
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movie-agent/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movie-agent/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movie-agent/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movie-agent/04.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movie-agent/05.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movie-agent/06.png"
       ],
       "highlightScreenshotIndex": 5,
       "description": [
@@ -98,7 +98,7 @@
     },
     {
       "name": "Space Resorts",
-      "id": "example.spaceResorts",
+      "id": "example.space-resorts",
       "group": "Walkthrough",
       "github": {
         "owner": "bixbydevelopers",
@@ -119,12 +119,12 @@
         }
       ],
       "screenshots": [
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/spaceResorts/01.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/spaceResorts/02.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/spaceResorts/03.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/spaceResorts/04.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/spaceResorts/05.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/spaceResorts/06.png"
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/space-resorts/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/space-resorts/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/space-resorts/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/space-resorts/04.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/space-resorts/05.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/space-resorts/06.png"
       ],
       "highlightScreenshotIndex": 5,
       "description": [
@@ -195,8 +195,35 @@
       "focusPath": "README.md"
     },
     {
+      "name": "Audio",
+      "id": "example.meow",
+      "group": "Sample",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-samples-collection",
+        "folder": "audio"
+      },
+      "links": [
+        {
+          "text": "Sample Documentation",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/samples/audio"
+        },
+        {
+          "text": "About Audio Library",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/library.audio"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/audio/01.png"
+      ],
+      "description": [
+        "This capsule demonstrates how to play audio files in your capsule by importing the bixby.audioPlayer library capsule."
+      ],
+      "focusPath": "README.md"
+    },
+    {
       "name": "Input Forms",
-      "id": "example.inputForm",
+      "id": "example.input-forms",
       "group": "Sample",
       "github": {
         "owner": "bixbydevelopers",
@@ -218,16 +245,16 @@
         }
       ],
       "screenshots": [
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/01.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/02.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/03.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/04.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/05.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/06.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/07.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/08.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/09.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/inputForm/10.png"
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/input-forms/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/input-forms/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/input-forms/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/input-forms/04.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/input-forms/05.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/input-forms/06.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/input-forms/07.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/input-forms/08.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/input-forms/09.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/input-forms/10.png"
       ],
       "description": [
         "This sample demonstrates how to implement an input-view, and see how the input components display on various device targets. You can ask for information directly using a form, or you can use a specific picker."
