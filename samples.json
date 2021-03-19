@@ -222,6 +222,52 @@
       "focusPath": "README.md"
     },
     {
+      "name": "Bixby Views",
+      "id": "example.commonLayouts",
+      "group": "Sample",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-samples-collection",
+        "folder": "bixby-views"
+      },
+      "links": [
+        {
+          "text": "Sample Documentation",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/samples/common-layouts"
+        },
+        {
+          "text": "About Building Views",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/building-views"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/bixby-views/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/bixby-views/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/bixby-views/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/bixby-views/04.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/bixby-views/05.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/bixby-views/06.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/bixby-views/07.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/bixby-views/08.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/bixby-views/09.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/bixby-views/10.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/bixby-views/11.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/bixby-views/12.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/bixby-views/13.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/bixby-views/14.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/bixby-views/15.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/bixby-views/16.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/bixby-views/17.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/bixby-views/18.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/bixby-views/19.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/bixby-views/20.png"
+      ],
+      "description": [
+        "This capsule displays many of the common layouts used in Bixby Views for all of the currently supported devices."
+      ],
+      "focusPath": "README.md"
+    },
+    {
       "name": "Input Forms",
       "id": "example.input-forms",
       "group": "Sample",
