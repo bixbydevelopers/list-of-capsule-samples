@@ -268,6 +268,65 @@
       "focusPath": "README.md"
     },
     {
+      "name": "Continuations",
+      "id": "example.continuation",
+      "group": "Sample",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-samples-collection",
+        "folder": "continuation-for-training"
+      },
+      "links": [
+        {
+          "text": "Sample Documentation",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/samples/continuation"
+        },
+        {
+          "text": "About continuation-of",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/training.training-for-nl#continuation-of"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/continuation-for-training/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/continuation-for-training/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/continuation-for-training/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/continuation-for-training/04.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/continuation-for-training/05.png"
+      ],
+      "description": [
+        "This capsule demonstrates how to use continuations in your training."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Dialog Affirmation",
+      "id": "example.dialogAffirmation",
+      "group": "Sample",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-samples-collection",
+        "folder": "dialog-affirmation"
+      },
+      "links": [
+        {
+          "text": "Sample Documentation",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/samples/dialog-affirmation"
+        },
+        {
+          "text": "About template-macro keys",
+          "url": "https://bixbydevelopers.com/dev/docs/reference/type/template-macro"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/dialog-affirmation/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/dialog-affirmation/02.png"
+      ],
+      "description": [
+        "This capsule demonstrates how to effectively use a combination of template-macro keys to create a variety of dialog responses to affirm an action from a user. Adding multiple dialog affirmations makes Bixby more user-friendly and natural sounding."
+      ],
+      "focusPath": "README.md"
+    },
+    {
       "name": "Input Forms",
       "id": "example.input-forms",
       "group": "Sample",
