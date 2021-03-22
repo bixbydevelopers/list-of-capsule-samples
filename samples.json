@@ -506,6 +506,317 @@
         "Different goals for Bixby might take the same concept as an input but trigger different result views. The result views specify different match patterns."
       ],
       "focusPath": "README.md"
+    },
+    {
+      "name": "Permissions",
+      "id": "example.permissions",
+      "group": "Sample",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-samples-collection",
+        "folder": "permissions"
+      },
+      "links": [
+        {
+          "text": "Sample Documentation",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/samples/permissions"
+        },
+        {
+          "text": "Granting Capsule Permissions Guide",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/managing-caps.prep-capsule#grant-capsule-permissions"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/permissions/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/permissions/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/permissions/03.png"
+      ],
+      "description": [
+        "This sample capsule demonstrates how to set up, request, and use permissions on Bixby. The sample accesses the user's location and name."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Phone Calls",
+      "id": "example.phoneCallExample",
+      "group": "Sample",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-samples-collection",
+        "folder": "library-phone-call-example"
+      },
+      "links": [
+        {
+          "text": "Sample Documentation",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/samples/phone-call"
+        },
+        {
+          "text": "Phone Call Library",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/library.phonecall"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/library-phone-call-example/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/library-phone-call-example/02.png"
+      ],
+      "description": [
+        "This sample capsule is a quick demonstration of how to use the Phone Call library. With this library, your Bixby capsules can make phone calls on supported devices."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Preference Learning",
+      "id": "example.preferenceLearning",
+      "group": "Sample",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-samples-collection",
+        "folder": "preference-learning"
+      },
+      "links": [
+        {
+          "text": "Sample Documentation",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/samples/preference-learning"
+        },
+        {
+          "text": "How to use Preference Learning",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/learning.preference-learning"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/preference-learning/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/preference-learning/02.png"
+      ],
+      "description": [
+        "This capsule discusses how to set up your capsule to use preference learning."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Refreshing Content",
+      "id": "example.refresh",
+      "group": "Sample",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-samples-collection",
+        "folder": "refreshing-content"
+      },
+      "links": [
+        {
+          "text": "Sample Documentation",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/samples/refresh"
+        },
+        {
+          "text": "Refreshing Your Content",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/building-views.refresh"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/refreshing-content/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/refreshing-content/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/refreshing-content/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/refreshing-content/04.png"
+      ],
+      "description": [
+        "This sample capsule demonstrates how to implement a refresh use case, using a ride sharing capsule as an example."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Selection Learning",
+      "id": "example.selectionLearning",
+      "group": "Sample",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-samples-collection",
+        "folder": "selection-learning"
+      },
+      "links": [
+        {
+          "text": "Sample Documentation",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/samples/selection-learning"
+        },
+        {
+          "text": "About Selection Learning",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/learning.selection-learning"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/selection-learning/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/selection-learning/02.png"
+      ],
+      "description": [
+        "This capsule demonstrates how to add selection learning to the actions of your capsule using the example of a ride sharing capsule."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Share Via",
+      "id": "example.shareViaExample",
+      "group": "Sample",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-samples-collection",
+        "folder": "library-share-via-example"
+      },
+      "links": [
+        {
+          "text": "Sample Documentation",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/samples/sharevia"
+        },
+        {
+          "text": "Share Via Library Guide",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/library.sharevia"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/library-share-via-example/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/library-share-via-example/02.png"
+      ],
+      "highlightScreenshotIndex": 1,
+      "description": [
+        "This sample capsule is a quick demonstration of how to use the ShareVia Library. With this library, your Bixby capsules can use the Android sharing functionality on supported devices."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "SSML Examples",
+      "id": "example.ssml_test",
+      "group": "Sample",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-samples-collection",
+        "folder": "ssml-examples"
+      },
+      "links": [
+        {
+          "text": "Sample Documentation",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/samples/ssml"
+        },
+        {
+          "text": "Using Speech Synthesis Markup Language (SSML)",
+          "url": "https://bixbydevelopers.com/dev/docs/reference/ref-topics/ssml"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/ssml-examples/01.png"
+      ],
+      "description": [
+        "This sample capsule demonstrates ways to use Speech Synthesis Markup Language (SSML) in your capsule. SSML is a standard for enriching text-to-speech. It can be used to change the rate, pitch, and volume of Bixby's speech; specify the language used in a spoken phrase; refine pronunciation; and even embed audio clips within spoken dialog."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Text Messages",
+      "id": "example.textMessageExample",
+      "group": "Sample",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-samples-collection",
+        "folder": "library-text-message-example"
+      },
+      "links": [
+        {
+          "text": "Sample Documentation",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/samples/text-message"
+        },
+        {
+          "text": "Text Message Library",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/library.textmessage"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/library-text-message-example/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/library-text-message-example/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/library-text-message-example/03.png"
+      ],
+      "description": [
+        "This sample capsule is a quick demonstration of how to use the Text Message library. With this library, your Bixby capsules can send text messages on supported devices."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Time Test Harness",
+      "id": "example.timeTestHarness",
+      "group": "Sample",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-samples-collection",
+        "folder": "time-test-harness"
+      },
+      "links": [
+        {
+          "text": "Sample Documentation",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/library.datetime#the-time-test-harness-capsule"
+        },
+        {
+          "text": "Date Time Library Guide",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/library.datetime"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/time-test-harness/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/time-test-harness/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/time-test-harness/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/time-test-harness/04.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/time-test-harness/05.png"
+      ],
+      "description": [
+        "This capsule provides an example of how to use the Date Time Library, with an accompanying tutorial video."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "User Context",
+      "id": "example.vivContext",
+      "group": "Sample",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-samples-collection",
+        "folder": "user-context"
+      },
+      "links": [
+        {
+          "text": "Sample Documentation",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/samples/user-context"
+        },
+        {
+          "text": "Passing User Context Information",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/actions.js-actions#passing-user-context-information"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/user-context/01.png"
+      ],
+      "description": [
+        "This sample capsule is a quick demonstration of the $vivContext variable for passing user context information."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "User Persistence",
+      "id": "example.userDataPersistence",
+      "group": "Sample",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-samples-collection",
+        "folder": "user-data-persistence"
+      },
+      "links": [
+        {
+          "text": "Sample Documentation",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/samples/user-persistence"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/user-data-persistence/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/user-data-persistence/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/user-data-persistence/03.png"
+      ],
+      "description": [
+        "This sample capsule demonstrates how to persist data for multiple users across conversations by storing state information in a remote database. While the sample works with either restDB or Airtable, the principles can be applied to any remote storage service."
+      ],
+      "focusPath": "README.md"
     }
   ]
 }
