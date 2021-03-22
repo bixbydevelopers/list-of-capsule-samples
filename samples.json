@@ -327,6 +327,77 @@
       "focusPath": "README.md"
     },
     {
+      "name": "Input Validation and Error Handling",
+      "id": "example.inputvalAnderrorhandling",
+      "group": "Sample",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-samples-collection",
+        "folder": "error-handling"
+      },
+      "links": [
+        {
+          "text": "Sample Documentation",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/samples/error-handling"
+        },
+        {
+          "text": "About Input Validation",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/modeling.modeling-actions#input-validation"
+        },
+        {
+          "text": "About Error Handling",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/modeling.modeling-actions#error-handling"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/error-handling/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/error-handling/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/error-handling/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/error-handling/04.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/error-handling/05.png"
+      ],
+      "description": [
+        "This capsule demonstrates how to validate input and handle errors in your actions."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "HTTP API Calls",
+      "id": "example.http",
+      "group": "Sample",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-samples-collection",
+        "folder": "http-api-calls"
+      },
+      "links": [
+        {
+          "text": "Sample Documentation",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/samples/http"
+        },
+        {
+          "text": "Calling Web Services",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/actions.js-actions#calling-web-services"
+        },
+        {
+          "text": "HTTP JavaScript API",
+          "url": "https://bixbydevelopers.com/dev/docs/reference/JavaScriptAPI/http"
+        },
+        {
+          "text": "Configuring Endpoints",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/actions.configuring-endpoints"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/http-api-calls/01.png"
+      ],
+      "description": [
+        "It's common for Bixby capsules to communicate with an external web service to perform actions that can't be completed on the device: fetching the weather report for a given location, getting a list of nearby Italian restaurants, booking a hotel room, and so on.",
+        "To use web APIs, your JavaScript action implementations (endpoints) can take advantage of Bixby's HTTP library, and can even call them directly as remote endpoints. This small sample capsule, an adaptation of the larger \"Shoe Store\" simple search sample capsule, demonstrates both the HTTP library and remote endpoints."
+      ],
+      "focusPath": "README.md"
+    },
+    {
       "name": "Input Forms",
       "id": "example.input-forms",
       "group": "Sample",
@@ -363,6 +434,76 @@
       ],
       "description": [
         "This sample demonstrates how to implement an input-view, and see how the input components display on various device targets. You can ask for information directly using a form, or you can use a specific picker."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Location Search",
+      "id": "example.locationSearch",
+      "group": "Sample",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-samples-collection",
+        "folder": "location-search"
+      },
+      "links": [
+        {
+          "text": "Sample Documentation",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/samples/location-search"
+        },
+        {
+          "text": "Import Library Capsules",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/library"
+        },
+        {
+          "text": "Ask for Permission from Users",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/managing-caps.prep-capsule#grant-capsule-permissions"
+        },
+        {
+          "text": "On-device Testing",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/testing.on-device"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/location-search/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/location-search/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/location-search/03.png"
+      ],
+      "description": [
+        "This sample highlights how to import and use the location and geo library capsules.",
+        "The best way to test this capsule is by using on-device testing so that Bixby can ask for your location, profile information, and contacts directly."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Match Patterns",
+      "id": "example.matchingPattern",
+      "group": "Sample",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-samples-collection",
+        "folder": "match-pattern"
+      },
+      "links": [
+        {
+          "text": "Sample Documentation",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/samples/matching-pattern"
+        },
+        {
+          "text": "How to match patterns in your actions",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/customizing-plan.match-patterns"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/match-pattern/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/match-pattern/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/match-pattern/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/match-pattern/04.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/match-pattern/05.png"
+      ],
+      "description": [
+        "This capsule demonstrates how to use match patterns in your actions.",
+        "Different goals for Bixby might take the same concept as an input but trigger different result views. The result views specify different match patterns."
       ],
       "focusPath": "README.md"
     }
