@@ -16,7 +16,8 @@
       "group": "Walkthrough (Quick Start)",
       "github": {
         "owner": "bixbydevelopers",
-        "repo": "capsule-sample-dice"
+        "repo": "capsule-sample-dice",
+        "branch": "master"
       },
       "links": [
         {
@@ -39,7 +40,8 @@
       "group": "Walkthrough",
       "github": {
         "owner": "bixbydevelopers",
-        "repo": "capsule-sample-movie-agent"
+        "repo": "capsule-sample-movie-agent",
+        "branch": "master"
       },
       "links": [
         {
@@ -71,7 +73,8 @@
       "group": "Walkthrough",
       "github": {
         "owner": "bixbydevelopers",
-        "repo": "capsule-sample-shoe"
+        "repo": "capsule-sample-shoe",
+        "branch": "master"
       },
       "links": [
         {
@@ -102,7 +105,8 @@
       "group": "Walkthrough",
       "github": {
         "owner": "bixbydevelopers",
-        "repo": "capsule-sample-space-resorts"
+        "repo": "capsule-sample-space-resorts",
+        "branch": "master"
       },
       "links": [
         {
@@ -139,7 +143,8 @@
       "group": "Walkthrough",
       "github": {
         "owner": "bixbydevelopers",
-        "repo": "capsule-sample-shirt"
+        "repo": "capsule-sample-shirt",
+        "branch": "master"
       },
       "links": [
         {
@@ -170,7 +175,8 @@
       "group": "Walkthrough",
       "github": {
         "owner": "bixbydevelopers",
-        "repo": "capsule-sample-bank"
+        "repo": "capsule-sample-bank",
+        "branch": "master"
       },
       "links": [
         {
@@ -201,6 +207,7 @@
       "github": {
         "owner": "bixbydevelopers",
         "repo": "capsule-samples-collection",
+        "branch": "master",
         "folder": "audio"
       },
       "links": [
@@ -228,6 +235,7 @@
       "github": {
         "owner": "bixbydevelopers",
         "repo": "capsule-samples-collection",
+        "branch": "master",
         "folder": "bixby-views"
       },
       "links": [
@@ -274,6 +282,7 @@
       "github": {
         "owner": "bixbydevelopers",
         "repo": "capsule-samples-collection",
+        "branch": "master",
         "folder": "continuation-for-training"
       },
       "links": [
@@ -305,6 +314,7 @@
       "github": {
         "owner": "bixbydevelopers",
         "repo": "capsule-samples-collection",
+        "branch": "master",
         "folder": "dialog-affirmation"
       },
       "links": [
@@ -333,6 +343,7 @@
       "github": {
         "owner": "bixbydevelopers",
         "repo": "capsule-samples-collection",
+        "branch": "master",
         "folder": "error-handling"
       },
       "links": [
@@ -368,6 +379,7 @@
       "github": {
         "owner": "bixbydevelopers",
         "repo": "capsule-samples-collection",
+        "branch": "master",
         "folder": "http-api-calls"
       },
       "links": [
@@ -404,6 +416,7 @@
       "github": {
         "owner": "bixbydevelopers",
         "repo": "capsule-samples-collection",
+        "branch": "master",
         "folder": "input-forms"
       },
       "links": [
@@ -444,6 +457,7 @@
       "github": {
         "owner": "bixbydevelopers",
         "repo": "capsule-samples-collection",
+        "branch": "master",
         "folder": "location-search"
       },
       "links": [
@@ -482,6 +496,7 @@
       "github": {
         "owner": "bixbydevelopers",
         "repo": "capsule-samples-collection",
+        "branch": "master",
         "folder": "match-pattern"
       },
       "links": [
@@ -514,6 +529,7 @@
       "github": {
         "owner": "bixbydevelopers",
         "repo": "capsule-samples-collection",
+        "branch": "master",
         "folder": "permissions"
       },
       "links": [
@@ -543,6 +559,7 @@
       "github": {
         "owner": "bixbydevelopers",
         "repo": "capsule-samples-collection",
+        "branch": "master",
         "folder": "library-phone-call-example"
       },
       "links": [
@@ -571,6 +588,7 @@
       "github": {
         "owner": "bixbydevelopers",
         "repo": "capsule-samples-collection",
+        "branch": "master",
         "folder": "preference-learning"
       },
       "links": [
@@ -599,6 +617,7 @@
       "github": {
         "owner": "bixbydevelopers",
         "repo": "capsule-samples-collection",
+        "branch": "master",
         "folder": "refreshing-content"
       },
       "links": [
@@ -629,6 +648,7 @@
       "github": {
         "owner": "bixbydevelopers",
         "repo": "capsule-samples-collection",
+        "branch": "master",
         "folder": "selection-learning"
       },
       "links": [
@@ -657,6 +677,7 @@
       "github": {
         "owner": "bixbydevelopers",
         "repo": "capsule-samples-collection",
+        "branch": "master",
         "folder": "library-share-via-example"
       },
       "links": [
@@ -686,6 +707,7 @@
       "github": {
         "owner": "bixbydevelopers",
         "repo": "capsule-samples-collection",
+        "branch": "master",
         "folder": "ssml-examples"
       },
       "links": [
@@ -713,6 +735,7 @@
       "github": {
         "owner": "bixbydevelopers",
         "repo": "capsule-samples-collection",
+        "branch": "master",
         "folder": "library-text-message-example"
       },
       "links": [
@@ -742,6 +765,7 @@
       "github": {
         "owner": "bixbydevelopers",
         "repo": "capsule-samples-collection",
+        "branch": "master",
         "folder": "time-test-harness"
       },
       "links": [
@@ -773,6 +797,7 @@
       "github": {
         "owner": "bixbydevelopers",
         "repo": "capsule-samples-collection",
+        "branch": "master",
         "folder": "user-context"
       },
       "links": [
@@ -800,6 +825,7 @@
       "github": {
         "owner": "bixbydevelopers",
         "repo": "capsule-samples-collection",
+        "branch": "master",
         "folder": "user-data-persistence"
       },
       "links": [
@@ -813,8 +839,129 @@
         "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/user-data-persistence/02.png",
         "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/user-data-persistence/03.png"
       ],
+      "highlightScreenshotIndex": 1,
       "description": [
         "This sample capsule demonstrates how to persist data for multiple users across conversations by storing state information in a remote database. While the sample works with either restDB or Airtable, the principles can be applied to any remote storage service."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Earthquake Finder",
+      "id": "example.earthquakeFinder",
+      "group": "Blog",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-sample-earthquake-finder",
+        "branch": "master"
+      },
+      "links": [
+        {
+          "text": "Bixby Conversations (Companion Blog Post)",
+          "url": "https://bixby.developer.samsung.com/newsroom/en-us/Lets-Talk-All-About-Bixby-Conversations"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-finder/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-finder/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-finder/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-finder/04.png"
+      ],
+      "description": [
+        "The Earthquake Finder capsule allows users to search for earthquakes around the globe based on various search criteria, such as geographic location, date-time, and minimum magnitude.",
+        "This capsule is mentioned in a blog post about Bixby conversations."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Earthquake Insights",
+      "id": "example.earthquakeInsights",
+      "group": "Blog",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-sample-earthquake-insights",
+        "branch": "master"
+      },
+      "links": [
+        {
+          "text": "When and Where: Mastering DataTime and Geo Libraries",
+          "url": "https://bixby.developer.samsung.com/newsroom/en-us/When-and-Where-Mastering-DateTime-and-Geo-Libraries"
+        },
+        {
+          "text": "DataTime Library",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/library.datetime"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-insights/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-insights/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-insights/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-insights/04.png"
+      ],
+      "description": [
+        "This capsule allows users to search for earthquakes that occurred globally based on date-time, location, and minimum, maximum or approximate magnitude.",
+        "This capsule demonstrates a sample implementation of Bixby’s DateTime and Geo libraries and is the companion to the Mastering DateTime and Geo Libraries article."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Meme Generator",
+      "id": "example.memeGenerator",
+      "group": "Fun",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-sample-meme-generator",
+        "branch": "master"
+      },
+      "links": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/meme-generator/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/meme-generator/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/meme-generator/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/meme-generator/04.png"
+      ],
+      "description": [
+        "Meme Generator is a fun capsule that allows you to make memes! You can find meme templates, generate your own memes, and finally open the meme in your browser for easy sharing."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Rock Paper Scissors",
+      "id": "playground.rockPaperScissors",
+      "group": "Fun",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-sample-rock-paper-scissors",
+        "branch": "main"
+      },
+      "links": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/rock-paper-scissors/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/rock-paper-scissors/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/rock-paper-scissors/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/rock-paper-scissors/04.png"
+      ],
+      "description": [
+        "This capsule allows you to play the classic, Rock, Paper, Scissors game on Bixby. It's intended as an example of a simple, single turn game on Bixby and was originally introduced and discussed at the Voice Lunch for Developers in February 2021."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "States and Capitals",
+      "id": "example.statesAndCapitals",
+      "group": "Fun",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-sample-states-and-capitals",
+        "branch": "master"
+      },
+      "links": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/states-and-capitals/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/states-and-capitals/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/states-and-capitals/03.png"
+      ],
+      "description": [
+        "The capsule provides simple States and Capitals questions and answers. The capsule highlights use the the basic building blocks of a Bixby capsule: Concepts, Actions, Endpoints, Dialog, Views and Training."
       ],
       "focusPath": "README.md"
     }
