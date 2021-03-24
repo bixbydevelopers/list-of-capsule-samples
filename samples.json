@@ -101,7 +101,7 @@
     },
     {
       "name": "Space Resorts",
-      "id": "example.space-resorts",
+      "id": "example.spaceResorts",
       "group": "Walkthrough",
       "github": {
         "owner": "bixbydevelopers",
@@ -411,7 +411,7 @@
     },
     {
       "name": "Input Forms",
-      "id": "example.input-forms",
+      "id": "example.inputForms",
       "group": "Sample",
       "github": {
         "owner": "bixbydevelopers",
