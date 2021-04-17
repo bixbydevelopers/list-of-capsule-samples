@@ -759,6 +759,32 @@
       "focusPath": "README.md"
     },
     {
+      "name": "Themes",
+      "id": "example.themes",
+      "group": "Sample",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-samples-collection",
+        "branch": "master",
+        "folder": "themes-support"
+      },
+      "links": [
+        {
+          "text": "Image Url Themes",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/building-views.components#images"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/themes-support/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/themes-support/02.png"
+      ],
+      "description": [
+        "This capsule demonstrates how to change which image displays in a view, based on the device theme.",
+        "Open the Simulator, compile the capsule, enter \"start\", and press the \"Run NL\" button. Change the theme in the Simulator by clicking on the gear icon and choosing a theme from the drop-down menu. Notice when you press the \"Run NL\" button again, the dark theme has a white thumbs-up icon, and the light theme has a black thumbs-up icon."
+      ],
+      "focusPath": "README.md"
+    },
+    {
       "name": "Time Test Harness",
       "id": "example.timeTestHarness",
       "group": "Sample",
