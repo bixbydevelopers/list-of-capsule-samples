@@ -11,161 +11,30 @@
   ],
   "samples": [
     {
-      "name": "Dice",
-      "id": "example.dice",
-      "group": "Walkthrough (Quick Start)",
+      "name": "Audio",
+      "id": "example.meow",
+      "group": "Sample",
       "github": {
         "owner": "bixbydevelopers",
-        "repo": "capsule-sample-dice",
-        "branch": "master"
+        "repo": "capsule-samples-collection",
+        "branch": "master",
+        "folder": "audio"
       },
       "links": [
         {
-          "text": "Quick Start Guide",
-          "url": "https://bixbydevelopers.com/dev/docs/get-started/quick-start"
+          "text": "Sample Documentation",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/samples/audio"
+        },
+        {
+          "text": "About Audio Library",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/library.audio"
         }
       ],
       "screenshots": [
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/dice/01.png"
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/audio/01.png"
       ],
       "description": [
-        "This capsule provides companion code to the Bixby Quick Start Guide. The capsule simulates throwing dice. Throw any number of dice and choose how many sides the dice have. The capsule demonstrates use of Concepts and Actions.",
-        "Note: This capsule is meant to be used with the Quick Start Guide, which teaches you how to add training. Therefore, you cannot use natural language initially. However, you can use an intent in the Simulator to test the capsule out-of-the-box."
-      ],
-      "focusPath": "README.md"
-    },
-    {
-      "name": "Movie Agent",
-      "id": "example.movieAgent",
-      "group": "Walkthrough",
-      "github": {
-        "owner": "bixbydevelopers",
-        "repo": "capsule-sample-movie-agent",
-        "branch": "master"
-      },
-      "links": [
-        {
-          "text": "Walkthrough - Movie Agent Capsule",
-          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/walkthroughs/movie-agent"
-        },
-        {
-          "text": "Code Puzzles",
-          "url": "https://github.com/bixbydevelopers/capsule-sample-movie-agent/blob/master/codelab/CODELAB.md"
-        }
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movie-agent/01.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movie-agent/02.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movie-agent/03.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movie-agent/04.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movie-agent/05.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movie-agent/06.png"
-      ],
-      "highlightScreenshotIndex": 5,
-      "description": [
-        "Watching movies is a way to travel to new worlds. This capsule is like a travel agent to help you find your next movie adventure. A walkthrough in our documentation, as well as code puzzles, will help you learn how to build one like it."
-      ],
-      "focusPath": "README.md"
-    },
-    {
-      "name": "Shoe",
-      "id": "example.shoe",
-      "group": "Walkthrough",
-      "github": {
-        "owner": "bixbydevelopers",
-        "repo": "capsule-sample-shoe",
-        "branch": "master"
-      },
-      "links": [
-        {
-          "text": "Walkthrough - Simple Search Capsule",
-          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/walkthroughs/simple-search"
-        },
-        {
-          "text": "Fetch asynchronously (lazy-source)",
-          "url": "https://bixbydevelopers.com/dev/docs/reference/type/structure.property.lazy-source"
-        }
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shoe/01.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shoe/02.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shoe/03.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shoe/04.png"
-      ],
-      "highlightScreenshotIndex": 3,
-      "description": [
-        "This sample capsule shows how to include basic search in a capsule. A user can start with a simple utterance, such as \"Find me some shoes,\" or do a more specific search, such as \"Find me dancing shoes.\"",
-        "The capsule responds with a summary of results. When a user selects one of the results, they see a detailed view, which fetches additional details from a lazy source."
-      ],
-      "focusPath": "README.md"
-    },
-    {
-      "name": "Space Resorts",
-      "id": "example.spaceResorts",
-      "group": "Walkthrough",
-      "github": {
-        "owner": "bixbydevelopers",
-        "repo": "capsule-sample-space-resorts",
-        "branch": "master"
-      },
-      "links": [
-        {
-          "text": "Walkthrough Documentation",
-          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/walkthroughs/space-resorts"
-        },
-        {
-          "text": "Transactional Workflows",
-          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/modeling.modeling-actions.transactional-workflows"
-        },
-        {
-          "text": "Building Bixby Views",
-          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/building-views"
-        }
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/space-resorts/01.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/space-resorts/02.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/space-resorts/03.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/space-resorts/04.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/space-resorts/05.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/space-resorts/06.png"
-      ],
-      "highlightScreenshotIndex": 5,
-      "description": [
-        "Space Resorts is a fun capsule that allows you to book a space vacation! You can find a resort, book a reservation, look up a reservation, and change or cancel a reservation.",
-        "This advanced capsule demonstrates development and design of searches, transactions and views."
-      ],
-      "focusPath": "README.md"
-    },
-    {
-      "name": "Shirt",
-      "id": "example.shirt",
-      "group": "Walkthrough",
-      "github": {
-        "owner": "bixbydevelopers",
-        "repo": "capsule-sample-shirt",
-        "branch": "master"
-      },
-      "links": [
-        {
-          "text": "Walkthrough - Basic Cart Transactional Capsule",
-          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/walkthroughs/basic-transactional"
-        },
-        {
-          "text": "Transactional Workflows",
-          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/modeling.modeling-actions.transactional-workflows"
-        }
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shirt/01.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shirt/02.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shirt/03.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shirt/04.png"
-      ],
-      "highlightScreenshotIndex": 2,
-      "description": [
-        "This sample capsule uses transactional features to create a shirt store. Users can search for shirts (FindShirt), which they can then add to and update in a cart using CreateOrder and UpdateOrder, respectively.",
-        "Users can then complete the transaction, by committing the order (CommitOrder) or canceling the order entirely (CancelOrder). Once users complete the transaction, they can check the status (CheckStatus) of the order, view a receipt (FindLastReceipt) that summarizes the details of the transaction, or cancel the order (CancelCommittedOrder)."
+        "This capsule demonstrates how to play audio files in your capsule by importing the bixby.audioPlayer library capsule."
       ],
       "focusPath": "README.md"
     },
@@ -197,34 +66,6 @@
       "description": [
         "This sample capsule uses transactional features to create a simple, one-step method for transferring money. The capsule contains three actions types to help the user find an account (Search), start a transfer (BeginTransaction), and complete a transfer (Commit).",
         "Important: you must configure the mock login before this capsule will work, see the walkthrough for instructions."
-      ],
-      "focusPath": "README.md"
-    },
-    {
-      "name": "Audio",
-      "id": "example.meow",
-      "group": "Sample",
-      "github": {
-        "owner": "bixbydevelopers",
-        "repo": "capsule-samples-collection",
-        "branch": "master",
-        "folder": "audio"
-      },
-      "links": [
-        {
-          "text": "Sample Documentation",
-          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/samples/audio"
-        },
-        {
-          "text": "About Audio Library",
-          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/library.audio"
-        }
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/collection/audio/01.png"
-      ],
-      "description": [
-        "This capsule demonstrates how to play audio files in your capsule by importing the bixby.audioPlayer library capsule."
       ],
       "focusPath": "README.md"
     },
@@ -333,6 +174,88 @@
       ],
       "description": [
         "This capsule demonstrates how to effectively use a combination of template-macro keys to create a variety of dialog responses to affirm an action from a user. Adding multiple dialog affirmations makes Bixby more user-friendly and natural sounding."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Dice",
+      "id": "example.dice",
+      "group": "Walkthrough (Quick Start)",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-sample-dice",
+        "branch": "master"
+      },
+      "links": [
+        {
+          "text": "Quick Start Guide",
+          "url": "https://bixbydevelopers.com/dev/docs/get-started/quick-start"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/dice/01.png"
+      ],
+      "description": [
+        "This capsule provides companion code to the Bixby Quick Start Guide. The capsule simulates throwing dice. Throw any number of dice and choose how many sides the dice have. The capsule demonstrates use of Concepts and Actions.",
+        "Note: This capsule is meant to be used with the Quick Start Guide, which teaches you how to add training. Therefore, you cannot use natural language initially. However, you can use an intent in the Simulator to test the capsule out-of-the-box."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Earthquake Finder",
+      "id": "example.earthquakeFinder",
+      "group": "Blog",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-sample-earthquake-finder",
+        "branch": "master"
+      },
+      "links": [
+        {
+          "text": "Bixby Conversations (Companion Blog Post)",
+          "url": "https://bixby.developer.samsung.com/newsroom/en-us/Lets-Talk-All-About-Bixby-Conversations"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-finder/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-finder/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-finder/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-finder/04.png"
+      ],
+      "description": [
+        "The Earthquake Finder capsule allows users to search for earthquakes around the globe based on various search criteria, such as geographic location, date-time, and minimum magnitude.",
+        "This capsule is mentioned in a blog post about Bixby conversations."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Earthquake Insights",
+      "id": "example.earthquakeInsights",
+      "group": "Blog",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-sample-earthquake-insights",
+        "branch": "master"
+      },
+      "links": [
+        {
+          "text": "When and Where: Mastering DataTime and Geo Libraries",
+          "url": "https://bixby.developer.samsung.com/newsroom/en-us/When-and-Where-Mastering-DateTime-and-Geo-Libraries"
+        },
+        {
+          "text": "DataTime Library",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/library.datetime"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-insights/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-insights/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-insights/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-insights/04.png"
+      ],
+      "description": [
+        "This capsule allows users to search for earthquakes that occurred globally based on date-time, location, and minimum, maximum or approximate magnitude.",
+        "This capsule demonstrates a sample implementation of Bixby’s DateTime and Geo libraries and is the companion to the Mastering DateTime and Geo Libraries article."
       ],
       "focusPath": "README.md"
     },
@@ -523,6 +446,60 @@
       "focusPath": "README.md"
     },
     {
+      "name": "Meme Generator",
+      "id": "example.memeGenerator",
+      "group": "Fun",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-sample-meme-generator",
+        "branch": "master"
+      },
+      "links": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/meme-generator/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/meme-generator/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/meme-generator/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/meme-generator/04.png"
+      ],
+      "description": [
+        "Meme Generator is a fun capsule that allows you to make memes! You can find meme templates, generate your own memes, and finally open the meme in your browser for easy sharing."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Movie Agent",
+      "id": "example.movieAgent",
+      "group": "Walkthrough",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-sample-movie-agent",
+        "branch": "master"
+      },
+      "links": [
+        {
+          "text": "Walkthrough - Movie Agent Capsule",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/walkthroughs/movie-agent"
+        },
+        {
+          "text": "Code Puzzles",
+          "url": "https://github.com/bixbydevelopers/capsule-sample-movie-agent/blob/master/codelab/CODELAB.md"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movie-agent/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movie-agent/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movie-agent/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movie-agent/04.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movie-agent/05.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/movie-agent/06.png"
+      ],
+      "highlightScreenshotIndex": 5,
+      "description": [
+        "Watching movies is a way to travel to new worlds. This capsule is like a travel agent to help you find your next movie adventure. A walkthrough in our documentation, as well as code puzzles, will help you learn how to build one like it."
+      ],
+      "focusPath": "README.md"
+    },
+    {
       "name": "Permissions",
       "id": "example.permissions",
       "group": "Sample",
@@ -642,6 +619,27 @@
       "focusPath": "README.md"
     },
     {
+      "name": "Rock Paper Scissors",
+      "id": "playground.rockPaperScissors",
+      "group": "Fun",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-sample-rock-paper-scissors",
+        "branch": "main"
+      },
+      "links": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/rock-paper-scissors/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/rock-paper-scissors/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/rock-paper-scissors/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/rock-paper-scissors/04.png"
+      ],
+      "description": [
+        "This capsule allows you to play the classic, Rock, Paper, Scissors game on Bixby. It's intended as an example of a simple, single turn game on Bixby and was originally introduced and discussed at the Voice Lunch for Developers in February 2021."
+      ],
+      "focusPath": "README.md"
+    },
+    {
       "name": "Selection Learning",
       "id": "example.selectionLearning",
       "group": "Sample",
@@ -701,6 +699,108 @@
       "focusPath": "README.md"
     },
     {
+      "name": "Shirt",
+      "id": "example.shirt",
+      "group": "Walkthrough",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-sample-shirt",
+        "branch": "master"
+      },
+      "links": [
+        {
+          "text": "Walkthrough - Basic Cart Transactional Capsule",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/walkthroughs/basic-transactional"
+        },
+        {
+          "text": "Transactional Workflows",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/modeling.modeling-actions.transactional-workflows"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shirt/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shirt/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shirt/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shirt/04.png"
+      ],
+      "highlightScreenshotIndex": 2,
+      "description": [
+        "This sample capsule uses transactional features to create a shirt store. Users can search for shirts (FindShirt), which they can then add to and update in a cart using CreateOrder and UpdateOrder, respectively.",
+        "Users can then complete the transaction, by committing the order (CommitOrder) or canceling the order entirely (CancelOrder). Once users complete the transaction, they can check the status (CheckStatus) of the order, view a receipt (FindLastReceipt) that summarizes the details of the transaction, or cancel the order (CancelCommittedOrder)."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Shoe",
+      "id": "example.shoe",
+      "group": "Walkthrough",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-sample-shoe",
+        "branch": "master"
+      },
+      "links": [
+        {
+          "text": "Walkthrough - Simple Search Capsule",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/walkthroughs/simple-search"
+        },
+        {
+          "text": "Fetch asynchronously (lazy-source)",
+          "url": "https://bixbydevelopers.com/dev/docs/reference/type/structure.property.lazy-source"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shoe/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shoe/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shoe/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/shoe/04.png"
+      ],
+      "highlightScreenshotIndex": 3,
+      "description": [
+        "This sample capsule shows how to include basic search in a capsule. A user can start with a simple utterance, such as \"Find me some shoes,\" or do a more specific search, such as \"Find me dancing shoes.\"",
+        "The capsule responds with a summary of results. When a user selects one of the results, they see a detailed view, which fetches additional details from a lazy source."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "Space Resorts",
+      "id": "example.spaceResorts",
+      "group": "Walkthrough",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-sample-space-resorts",
+        "branch": "master"
+      },
+      "links": [
+        {
+          "text": "Walkthrough Documentation",
+          "url": "https://bixbydevelopers.com/dev/docs/sample-capsules/walkthroughs/space-resorts"
+        },
+        {
+          "text": "Transactional Workflows",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/modeling.modeling-actions.transactional-workflows"
+        },
+        {
+          "text": "Building Bixby Views",
+          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/building-views"
+        }
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/space-resorts/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/space-resorts/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/space-resorts/03.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/space-resorts/04.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/space-resorts/05.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/space-resorts/06.png"
+      ],
+      "highlightScreenshotIndex": 5,
+      "description": [
+        "Space Resorts is a fun capsule that allows you to book a space vacation! You can find a resort, book a reservation, look up a reservation, and change or cancel a reservation.",
+        "This advanced capsule demonstrates development and design of searches, transactions and views."
+      ],
+      "focusPath": "README.md"
+    },
+    {
       "name": "SSML Examples",
       "id": "example.ssml_test",
       "group": "Sample",
@@ -725,6 +825,26 @@
       ],
       "description": [
         "This sample capsule demonstrates ways to use Speech Synthesis Markup Language (SSML) in your capsule. SSML is a standard for enriching text-to-speech. It can be used to change the rate, pitch, and volume of Bixby's speech; specify the language used in a spoken phrase; refine pronunciation; and even embed audio clips within spoken dialog."
+      ],
+      "focusPath": "README.md"
+    },
+    {
+      "name": "States and Capitals",
+      "id": "example.statesAndCapitals",
+      "group": "Fun",
+      "github": {
+        "owner": "bixbydevelopers",
+        "repo": "capsule-sample-states-and-capitals",
+        "branch": "master"
+      },
+      "links": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/states-and-capitals/01.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/states-and-capitals/02.png",
+        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/states-and-capitals/03.png"
+      ],
+      "description": [
+        "The capsule provides simple States and Capitals questions and answers. The capsule highlights use the the basic building blocks of a Bixby capsule: Concepts, Actions, Endpoints, Dialog, Views and Training."
       ],
       "focusPath": "README.md"
     },
@@ -868,126 +988,6 @@
       "highlightScreenshotIndex": 1,
       "description": [
         "This sample capsule demonstrates how to persist data for multiple users across conversations by storing state information in a remote database. While the sample works with either restDB or Airtable, the principles can be applied to any remote storage service."
-      ],
-      "focusPath": "README.md"
-    },
-    {
-      "name": "Earthquake Finder",
-      "id": "example.earthquakeFinder",
-      "group": "Blog",
-      "github": {
-        "owner": "bixbydevelopers",
-        "repo": "capsule-sample-earthquake-finder",
-        "branch": "master"
-      },
-      "links": [
-        {
-          "text": "Bixby Conversations (Companion Blog Post)",
-          "url": "https://bixby.developer.samsung.com/newsroom/en-us/Lets-Talk-All-About-Bixby-Conversations"
-        }
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-finder/01.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-finder/02.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-finder/03.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-finder/04.png"
-      ],
-      "description": [
-        "The Earthquake Finder capsule allows users to search for earthquakes around the globe based on various search criteria, such as geographic location, date-time, and minimum magnitude.",
-        "This capsule is mentioned in a blog post about Bixby conversations."
-      ],
-      "focusPath": "README.md"
-    },
-    {
-      "name": "Earthquake Insights",
-      "id": "example.earthquakeInsights",
-      "group": "Blog",
-      "github": {
-        "owner": "bixbydevelopers",
-        "repo": "capsule-sample-earthquake-insights",
-        "branch": "master"
-      },
-      "links": [
-        {
-          "text": "When and Where: Mastering DataTime and Geo Libraries",
-          "url": "https://bixby.developer.samsung.com/newsroom/en-us/When-and-Where-Mastering-DateTime-and-Geo-Libraries"
-        },
-        {
-          "text": "DataTime Library",
-          "url": "https://bixbydevelopers.com/dev/docs/dev-guide/developers/library.datetime"
-        }
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-insights/01.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-insights/02.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-insights/03.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/earthquake-insights/04.png"
-      ],
-      "description": [
-        "This capsule allows users to search for earthquakes that occurred globally based on date-time, location, and minimum, maximum or approximate magnitude.",
-        "This capsule demonstrates a sample implementation of Bixby’s DateTime and Geo libraries and is the companion to the Mastering DateTime and Geo Libraries article."
-      ],
-      "focusPath": "README.md"
-    },
-    {
-      "name": "Meme Generator",
-      "id": "example.memeGenerator",
-      "group": "Fun",
-      "github": {
-        "owner": "bixbydevelopers",
-        "repo": "capsule-sample-meme-generator",
-        "branch": "master"
-      },
-      "links": [],
-      "screenshots": [
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/meme-generator/01.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/meme-generator/02.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/meme-generator/03.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/meme-generator/04.png"
-      ],
-      "description": [
-        "Meme Generator is a fun capsule that allows you to make memes! You can find meme templates, generate your own memes, and finally open the meme in your browser for easy sharing."
-      ],
-      "focusPath": "README.md"
-    },
-    {
-      "name": "Rock Paper Scissors",
-      "id": "playground.rockPaperScissors",
-      "group": "Fun",
-      "github": {
-        "owner": "bixbydevelopers",
-        "repo": "capsule-sample-rock-paper-scissors",
-        "branch": "main"
-      },
-      "links": [],
-      "screenshots": [
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/rock-paper-scissors/01.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/rock-paper-scissors/02.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/rock-paper-scissors/03.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/rock-paper-scissors/04.png"
-      ],
-      "description": [
-        "This capsule allows you to play the classic, Rock, Paper, Scissors game on Bixby. It's intended as an example of a simple, single turn game on Bixby and was originally introduced and discussed at the Voice Lunch for Developers in February 2021."
-      ],
-      "focusPath": "README.md"
-    },
-    {
-      "name": "States and Capitals",
-      "id": "example.statesAndCapitals",
-      "group": "Fun",
-      "github": {
-        "owner": "bixbydevelopers",
-        "repo": "capsule-sample-states-and-capitals",
-        "branch": "master"
-      },
-      "links": [],
-      "screenshots": [
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/states-and-capitals/01.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/states-and-capitals/02.png",
-        "https://raw.githubusercontent.com/bixbydevelopers/list-of-capsule-samples/main/states-and-capitals/03.png"
-      ],
-      "description": [
-        "The capsule provides simple States and Capitals questions and answers. The capsule highlights use the the basic building blocks of a Bixby capsule: Concepts, Actions, Endpoints, Dialog, Views and Training."
       ],
       "focusPath": "README.md"
     }
