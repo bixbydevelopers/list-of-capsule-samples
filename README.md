@@ -40,3 +40,7 @@ Each sample capsule in the `samples` array has these properties:
 This list is meant to be updated by the Bixby team, and instructions for doing so can be found in the
 [Sample Capsule List Guide](https://github.com/six5/viv-ide/blob/master/notes/sample-capsule-list-guide.md)
 (this link leads to a private repository that not everyone will be able to open). 
+
+Care should be taken when updating the `samples.json` file, because any updates to that file on the main branch of
+this repository will immediately be reflected in all installed copies of Bixby Studio (version 8.10 or greater).
+Bixby Studio loads the `samples.json` file from this repository to display the list of sample capsules available.
