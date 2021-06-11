@@ -1,11 +1,14 @@
 # List of Capsule Samples
 
-There are many capsule samples that can be used to learn how to write a new capsule for Bixby.
-This repository is meant to grow into a list/index of them all.
+There are many [sample capsules](https://bixbydevelopers.com/dev/docs/sample-capsules) that can be used to learn how
+to write a new capsule for Bixby. This repository is the index. We've collected together information about all the
+sample capsules here, and it includes descriptions, names of their GitHub repositories, and screenshots.
 
-This repository is a work in progress. We're collecting together a list of the capsule sample repositories here,
-that includes descriptions, name of their GitHub repositories, and screenshots. More information will be available
-here as this develops.
+This repository provides the list of sample capsules that is featured in Bixby Studio, beginning in
+[version 8.10](https://bixbydevelopers.com/dev/docs/dev-guide/release-notes/bixby-studio.8-10-0#download-and-open-sample-capsules).
+To get started, choose "Create Capsule from Sample" from the File Menu, or from the Welcome page.
+Bixby Studio will show you the list of sample capsules and, once you select one, it will download a copy of that
+sample capsule into a local folder of your choice and open it for you.
 
 # JSON format
 
@@ -31,3 +34,13 @@ Each sample capsule in the `samples` array has these properties:
 - highlightScreenshotIndex: screenshot that should show in the list (if there are multiple screenshots, index begins at 0)
 - description: description of walk-through or feature that is highlighted by this sample, an array of strings, each string will be displayed as a paragraph
 - focusPath: relative path from the capsule's top-level folder, to the file that the developer should look at first (e.g. "README.md")
+
+# Updating this list
+
+This list is meant to be updated by the Bixby team, and instructions for doing so can be found in the
+[Sample Capsule List Guide](https://github.com/six5/viv-ide/blob/master/notes/sample-capsule-list-guide.md)
+(this link leads to a private repository that not everyone will be able to open). 
+
+Care should be taken when updating the `samples.json` file, because any updates to that file on the main branch of
+this repository will immediately be reflected in all installed copies of Bixby Studio (version 8.10 or greater).
+Bixby Studio loads the `samples.json` file from this repository to display the list of sample capsules available.
